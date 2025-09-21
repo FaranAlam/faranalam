@@ -17,8 +17,8 @@ Passionate about clean UI/UX, problem-solving, and sharing knowledge with the de
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/faran-alam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:faran.alam@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/faran-alam-14203abc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:faranalam14203@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://faran-fullstack.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
 </p>  
 
