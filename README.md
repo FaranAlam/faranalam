@@ -1,8 +1,22 @@
 # 👋 Assalamualaikum, I'm Faran Alam  
 
-💻 **Full Stack Developer | Computer Engineer | Web Enthusiast**  
+🎓 Computer Engineering Student | 💻 Web Developer | 🌐 Full Stack Enthusiast  
+
+📍 H-10 Islamabad, Pakistan  
+📧 faranalam14203@gmail.com | 📱 +92-333-405-1830  
+
+---
+ 
 I build scalable, production-ready applications using **React, Node.js, Express, MongoDB**, and modern frontend tools like **Tailwind CSS**.  
 Passionate about clean UI/UX, problem-solving, and sharing knowledge with the dev community.  
+
+---
+
+## 💼 Experience  
+- **Web Developer** – National Highway Authority (NHA) *(Onsite Internship, 2025)*  
+- **Full Stack Developer** – DevelopersHub Corporation *(Remote Internship, 2025)*  
+- **Frontend Developer** – Volenter Force of Pakistan (JayNex IT) *(Remote Internship, 2025)*  
+- **Web Developer** – NextGen Learners *(Remote Internship, 2025)*  
 
 ---
 
@@ -12,6 +26,42 @@ Passionate about clean UI/UX, problem-solving, and sharing knowledge with the de
 - 👨‍💻 Skilled in **React, Tailwind, Node.js, Express, MongoDB, JWT**  
 - 🌱 Exploring **AI, Cloud, and Next.js**  
 - ✨ Believer in **learning, teaching, and building impactful solutions**  
+
+---
+
+## 🏆 Certifications  
+- Web Development – National Highway Authority (2025)  
+- Web Development – NextGen Learners (2025)  
+- Full Stack Development – DevelopersHub Corporation (2025)  
+- Responsive Web Designing – Volenter Force of Pakistan (2025)  
+- Diploma in IT – KP Board of Technical Education (2022)
+
+---
+
+## 🎓 Education  
+- **BS Computer Engineering** – International Islamic University Islamabad *(2022 – Present)*  
+- **Intermediate (English Medium)** – Wisdom Science College, Karak *(2020 – 2022)*  
+- **Matric (English Medium)** – Wisdom Science College, Karak *(2018 – 2020)*  
+
+---
+
+## 🔧 Skills  
+- **Programming:** Python, JavaScript  
+- **Web Development:** HTML, CSS, React, Node.js, Express.js, MongoDB  
+- **Other Tools:** Arduino IDE, Git/GitHub, Flask  
+- **Specialization:** Web Design, Full Stack Development
+
+---
+
+## 🛠️ Projects  
+- 🔹 [TaskTrackr – Personal Task Manager App](#) *(MERN Stack)*  
+- 🔹 AI Smart Salary Predictor *(Flask)*  
+- 🔹 AI Diabetes Risk Predictor *(Flask)*  
+- 🔹 Home Automation via Arduino (Bluetooth)  
+- 🔹 Health Monitoring System (Arduino)  
+- 🔹 AI Mock Interview App  
+- 🔹 Restaurant Website  
+- 🔹 Educational Website Design 
 
 ---
 
@@ -60,4 +110,4 @@ Passionate about clean UI/UX, problem-solving, and sharing knowledge with the de
 
 ---
 
-⭐️ *"Code with clarity, intention, and creativity."*  
+⭐️ From [FaranAlam](https://github.com/faranalam)
