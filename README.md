@@ -1,113 +1,97 @@
-# 👋 Assalamualaikum, I'm Faran Alam  
+<div align="center">
+  <h1>👋 Hi, I'm Faran Alam</h1>
+  <h3>Full Stack Engineer & Computer Engineering Undergrad</h3>
+  <p>Building scalable web applications, exploring Edge AI, and crafting intuitive user experiences.</p>
 
-🎓 Computer Engineering Student | 💻 Web Developer | 🌐 Full Stack Enthusiast  
-
-📍 H-10 Islamabad, Pakistan  
-📧 faranalam14203@gmail.com | 📱 +92-333-405-1830  
-
----
- 
-I build scalable, production-ready applications using **React, Node.js, Express, MongoDB**, and modern frontend tools like **Tailwind CSS**.  
-Passionate about clean UI/UX, problem-solving, and sharing knowledge with the dev community.  
-
----
-
-## 💼 Experience  
-- **Web Developer** – National Highway Authority (NHA) *(Onsite Internship, 2025)*  
-- **Full Stack Developer** – DevelopersHub Corporation *(Remote Internship, 2025)*  
-- **Frontend Developer** – Volenter Force of Pakistan (JayNex IT) *(Remote Internship, 2025)*  
-- **Web Developer** – NextGen Learners *(Remote Internship, 2025)*  
+  <p>
+    <a href="https://faran-fullstack.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/faran-alam-14203abc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/faranalam" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:faranalam14203@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-## 🌟 About Me
-- 🎓 Computer Engineer & MERN Stack Developer  
-- 🚀 Currently working on **TaskTrackr – Personal Task Manager App**  
-- 👨‍💻 Skilled in **React, Tailwind, Node.js, Express, MongoDB, JWT**  
-- 🌱 Exploring **AI, Cloud, and Next.js**  
-- ✨ Believer in **learning, teaching, and building impactful solutions**  
+## 👨‍💻 About Me
+
+I am a professional Full Stack Developer and a BS Computer Engineering student based in Islamabad, Pakistan. I specialize in the **MERN stack**, **Next.js**, and building architecture for robust web and mobile applications. My engineering background also allows me to bridge the gap between software and hardware, working on projects involving IoT, Embedded Systems, and Computer Vision.
+
+- 🎓 **Education:** BS Computer Engineering at International Islamic University Islamabad (IIUI).
+- 💡 **Interests:** Scalable System Architecture, AI-driven Developer Tools, Edge AI, and Digital Education.
+- 🚀 **Currently Building:** Expanding production-ready applications like LMS platforms and interactive dashboards.
+- 🤝 **Community:** I actively manage digital academy courses to teach web design and share knowledge with the tech community.
 
 ---
 
-## 🏆 Certifications  
-- Web Development – National Highway Authority (2025)  
-- Web Development – NextGen Learners (2025)  
-- Full Stack Development – DevelopersHub Corporation (2025)  
-- Responsive Web Designing – Volenter Force of Pakistan (2025)  
-- Diploma in IT – KP Board of Technical Education (2022)
+## 🛠️ Tech Stack & Tools
+
+**Frontend Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Infrastructure**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-## 🎓 Education  
-- **BS Computer Engineering** – International Islamic University Islamabad *(2022 – Present)*  
-- **Intermediate (English Medium)** – Wisdom Science College, Karak *(2020 – 2022)*  
-- **Matric (English Medium)** – Wisdom Science College, Karak *(2018 – 2020)*  
+## 🚀 Featured Projects
+
+### 🌐 Full Stack & Web Applications
+- **Sarwar English Lab (LMS):** Developed a comprehensive Learning Management System for educational deployment and student management.
+- **AquaFood Dashboard:** Built a complex, data-driven administrative dashboard for food management using the MERN stack.
+- **TaskTrackr:** A personal task manager application featuring secure authentication (JWT) and responsive UI.
+- **Faran Digital Academy:** Developed and managed the registration systems and course portals for digital skills education.
+
+### 🤖 AI & Hardware Integration
+- **Rooftop Solar Electricity Estimation:** Engineered a solution utilizing On-Device Edge AI and Convolutional Neural Networks (CNNs).
+- **Raspberry Pi Lane Detection:** Integrated computer vision models on embedded hardware for automated lane tracking.
+- **AI Smart Predictors:** Developed machine learning web apps for Salary Prediction and Diabetes Risk Assessment using Flask.
+- **Home & Health Automation:** Built Bluetooth-enabled home automation and sensor-based health monitoring systems using Arduino.
 
 ---
 
-## 🔧 Skills  
-- **Programming:** Python, JavaScript  
-- **Web Development:** HTML, CSS, React, Node.js, Express.js, MongoDB  
-- **Other Tools:** Arduino IDE, Git/GitHub, Flask  
-- **Specialization:** Web Design, Full Stack Development
+## 💼 Professional Experience
+
+- **Web Developer Intern** – National Highway Authority (NHA) *(Onsite, 2025)*
+- **Winter Intern** – ITSOLERA Pvt. Ltd. *(2025)*
+- **Full Stack Developer** – DevelopersHub Corporation *(Remote, 2025)*
+- **Frontend Developer** – Volenter Force of Pakistan (JayNex IT) *(Remote, 2025)*
 
 ---
 
-## 🛠️ Projects  
-- 🔹 [TaskTrackr – Personal Task Manager App](#) *(MERN Stack)*  
-- 🔹 AI Smart Salary Predictor *(Flask)*  
-- 🔹 AI Diabetes Risk Predictor *(Flask)*  
-- 🔹 Home Automation via Arduino (Bluetooth)  
-- 🔹 Health Monitoring System (Arduino)  
-- 🔹 AI Mock Interview App  
-- 🔹 Restaurant Website  
-- 🔹 Educational Website Design 
+## 🏆 Certifications
+
+- **Full Stack Development (A+ Grade)** – NAVTTC (Prime Minister's Youth Skills Development Program)
+- **Web Development** – National Highway Authority (NHA)
+- **Diploma in IT** – KP Board of Technical Education
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/faran-alam-14203abc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:faranalam14203@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://faran-fullstack.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
-</p>  
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaranAlam&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranAlam&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB" width="48%" />
+</div>
 
-## 💻 Tech Stack
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss)  
+<br>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express)  
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaranAlam&bg_color=000000&color=61DAFB&line=38B2AC&point=ffffff&hide_border=true" width="100%" />
+</div>
 
-**Tools & Platforms:**  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)  
-![Netlify](https://img.shields.io/badge/Netlify-cyan?style=for-the-badge&logo=netlify)  
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaranAlam&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranAlam&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaranAlam&theme=react-dark" alt="Contribution Graph" />
-</p>  
-
----
-
-⭐️ From [FaranAlam](https://github.com/faranalam)
+<br>
+<p align="center"><i>"Building impactful solutions, one line of code at a time."</i></p>
