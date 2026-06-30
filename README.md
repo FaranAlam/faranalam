@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I'm Faran Alam</h1>
-  <h3>Full Stack Engineer & Computer Engineering Undergrad</h3>
-  <p>Building scalable web applications, exploring Edge AI, and crafting intuitive user experiences.</p>
+  <h3>Full Stack Software Engineer | Computer Engineering Undergrad (IIUI)</h3>
+  <p>Bridging the gap between low-level hardware logic and highly scalable software ecosystems.</p>
 
   <p>
-    <a href="https://faran-fullstack.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://faran-new-portfolio.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/faran-alam-14203abc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/faranalam" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="mailto:faranalam14203@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,68 +15,79 @@
 
 ## 👨‍💻 About Me
 
-I am a professional Full Stack Developer and a BS Computer Engineering student based in Islamabad, Pakistan. I specialize in the **MERN stack**, **Next.js**, and building architecture for robust web and mobile applications. My engineering background also allows me to bridge the gap between software and hardware, working on projects involving IoT, Embedded Systems, and Computer Vision.
+I am a results-driven **Full Stack Developer** and a **Computer Engineering** student with a passion for building robust, user-centric digital solutions. I specialize in the **MERN Stack** and **Next.js**, crafting responsive applications that solve real-world problems. Certified with an **A+ Grade** by NAVTTC under the PM's Youth Skills Development Program, I am constantly leveling up my stack to stay ahead of industry trends. 
 
-- 🎓 **Education:** BS Computer Engineering at International Islamic University Islamabad (IIUI).
-- 💡 **Interests:** Scalable System Architecture, AI-driven Developer Tools, Edge AI, and Digital Education.
-- 🚀 **Currently Building:** Expanding production-ready applications like LMS platforms and interactive dashboards.
-- 🤝 **Community:** I actively manage digital academy courses to teach web design and share knowledge with the tech community.
+My mission is to help businesses scale their impact through secure, modern code while contributing to the tech community via open-source development and digital education.
+
+- 🎓 **Education:** BS Computer Engineering at International Islamic University, Islamabad (2022–2026).
+- 💡 **Specialties:** Full Stack Web Architecture, SEO Optimization, IoT Integration (ESP32/Arduino), and Edge AI.
+- 🚀 **Currently Building:** Enterprise-grade POS Systems and E-Learning Ecosystems (LMS).
+- 🤝 **Community:** Volunteer Web Developer for ISCB-SC RSG Pakistan & Founder of Faran Digital Academy.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend Development**  
+**Frontend & Mobile**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & Infrastructure**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**DevOps, Hardware & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Full Stack & Web Applications
-- **Sarwar English Lab (LMS):** Developed a comprehensive Learning Management System for educational deployment and student management.
-- **AquaFood Dashboard:** Built a complex, data-driven administrative dashboard for food management using the MERN stack.
-- **TaskTrackr:** A personal task manager application featuring secure authentication (JWT) and responsive UI.
-- **Faran Digital Academy:** Developed and managed the registration systems and course portals for digital skills education.
-
-### 🤖 AI & Hardware Integration
-- **Rooftop Solar Electricity Estimation:** Engineered a solution utilizing On-Device Edge AI and Convolutional Neural Networks (CNNs).
-- **Raspberry Pi Lane Detection:** Integrated computer vision models on embedded hardware for automated lane tracking.
-- **AI Smart Predictors:** Developed machine learning web apps for Salary Prediction and Diabetes Risk Assessment using Flask.
-- **Home & Health Automation:** Built Bluetooth-enabled home automation and sensor-based health monitoring systems using Arduino.
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-- **Web Developer Intern** – National Highway Authority (NHA) *(Onsite, 2025)*
-- **Winter Intern** – ITSOLERA Pvt. Ltd. *(2025)*
-- **Full Stack Developer** – DevelopersHub Corporation *(Remote, 2025)*
-- **Frontend Developer** – Volenter Force of Pakistan (JayNex IT) *(Remote, 2025)*
+- **Full Stack Developer** | *Sarwar English Lab (xSEL)* (Mar 2026 – Present)
+  - Architecting an advanced E-Learning Ecosystem (Next.js, MongoDB).
+  - Developing role-based LMS workflows (Admin/Staff/Students), NextAuth route protection, and MCQ Evaluation Engines.
+- **Volunteer Web Developer** | *ISCB-SC RSG Pakistan* (Jan 2026 – Present)
+  - Managing and developing the official website and building custom solutions for the bioinformatics community.
+- **Founder & Lead Instructor** | *Faran Digital Academy* (Dec 2025 – Present)
+  - Built a custom online platform offering specialized web development courses and managed registration gateways.
+- **Freelance Full Stack Developer** | *Remote* (Aug 2022 – Present)
+  - Delivering scalable solutions, backend APIs (JWT, Mongoose), and responsive dashboards for global clients.
+- **Web Developer (Internships)** | *NHA, DevelopersHub, Volenter Force, NextGenLearners* (Jul 2025 – Jan 2026)
 
 ---
 
-## 🏆 Certifications
+## 🚀 Key Projects
 
-- **Full Stack Development (A+ Grade)** – NAVTTC (Prime Minister's Youth Skills Development Program)
-- **Web Development** – National Highway Authority (NHA)
-- **Diploma in IT** – KP Board of Technical Education
+### 🌐 Scalable Web Applications & Dashboards
+* **Mobile Shop Business Management (POS):** A comprehensive Point of Sale and inventory dashboard built with Next.js and Node.js. Features automated sales workflows, real-time stock updates, and role-based access control.
+* **xSEL Admissions Platform:** A full admissions workflow featuring CMS-driven forms, duplicate data validation (CNIC/Email), automated email notifications, and CSV/PDF export generation.
+* **Vitromics Biolab SEO Optimization:** Conducted high-level SEO optimization to significantly improve search visibility, traffic, and web performance.
+
+### 🤖 AI, IoT & Hardware Systems
+* **AquaFood IoT Dashboard:** Developed a real-time monitoring dashboard for aquaculture, integrating ESP32/Arduino sensor data with a web frontend for live water quality tracking.
+* **Real-Time Lane Detection:** Designed an automated lane detection system utilizing Computer Vision (OpenCV) deployed on Raspberry Pi hardware.
+* **Agri-Tech Yield Predictor:** Built an XGBoost ensemble machine learning model to predict wheat/rice yields across 12 districts, integrating the OpenWeatherMap API for climate-adjusted forecasts.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **Full Stack Development (Grade A+)** – NAVTTC (Prime Minister's Youth Skills Development Program)
+- 📜 **Certified Web Professional (CWP)** – National Highway Authority
+- 📜 **Diploma in Information Technology (DIT)** – KP Board of Technical & Commerce Education
+- 🏆 **Winner** – Multiple university-level technical project showcases
+- ✍️ **Technical Writing:** Proficient in software documentation and LaTeX.
 
 ---
 
@@ -94,4 +105,4 @@ I am a professional Full Stack Developer and a BS Computer Engineering student b
 </div>
 
 <br>
-<p align="center"><i>"Building impactful solutions, one line of code at a time."</i></p>
+<p align="center"><i>"Constantly learning, continuously building."</i></p>
