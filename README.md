@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://faran-new-portfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=5EEAD4&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Faran+Alam;Full+Stack+Software+Engineer;BS+Computer+Engineering+(IIUI);Mobile+App+%26+Edge+AI+Developer;Bridging+Hardware+%26+Cloud+Scalability" alt="Animated Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=800&color=5EEAD4&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Faran+Alam;Full+Stack+Software+Engineer;BS+Computer+Engineering+(IIUI);Mobile+App+%26+Edge+AI+Developer;Bridging+Hardware+%26+Cloud+Scalability" alt="Animated Header" />
   </a>
   
   <br/>
@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Status-Active_&_Building-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117" alt="Status" />
   
   <br/><br/>
-  
-  <a href="https://github.com/faranalam" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=faranalam&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
