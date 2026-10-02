@@ -1,9 +1,9 @@
-# Faran Alam — GitHub profile installation
+# GitHub Profile Setup
 
-1. Open `github.com/FaranAlam/faranalam` (your profile README repository).
-2. Upload **README.md** and the complete **assets/** directory at the repository root, keeping all filenames unchanged. Replace your old README.md.
-3. Optional snake: upload `.github/workflows/snake.yml` with the same folder structure. In GitHub **Actions**, manually run **Generate contribution snake** once. Ensure Actions workflow permissions permit read/write and check the run completed successfully.
-4. Only after the workflow generates the `output` branch, uncomment the snake `<img>` line in README.md. Without setup, the profile shows a self-hosted decorative activity graphic and working links to your live contributions.
-5. Visit `github.com/FaranAlam` after committing to verify the rendered profile.
+1. Extract this ZIP. Do not upload the ZIP itself.
+2. Open your GitHub profile repository `FaranAlam/faranalam`.
+3. Upload `README.md` and the complete `assets/` folder, preserving folder paths.
+4. Optional: upload `.github/workflows/snake.yml` if you want the animated snake. In repository Settings → Actions → General, allow workflow permissions appropriate to the action, then run the workflow. Only enable the snake image after the workflow succeeds.
+5. Commit and open https://github.com/FaranAlam to verify.
 
-The SVG project panels are custom decorative illustrations, not screenshots of the live websites. Experience and project descriptions are based on your original README and should be checked before publishing.
+The contribution activity graph is a third-party live image, so temporary outages are possible. The direct GitHub profile link always leads to GitHub's own contribution calendar.
