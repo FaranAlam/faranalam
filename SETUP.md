@@ -1,10 +1,9 @@
-# Upload instructions
+# Faran Alam — GitHub profile installation
 
-1. Open your **FaranAlam/faranalam** GitHub profile repository.
-2. Click **Add file → Upload files** from the repository root.
-3. Upload **README.md** and the **assets folder with every SVG inside it**. If GitHub browser upload does not preserve folders, create an `assets` folder first and upload the SVG files inside it.
-4. Commit the changes. Open **github.com/FaranAlam** to see the rendered profile.
+1. Open `github.com/FaranAlam/faranalam` (your profile README repository).
+2. Upload **README.md** and the complete **assets/** directory at the repository root, keeping all filenames unchanged. Replace your old README.md.
+3. Optional snake: upload `.github/workflows/snake.yml` with the same folder structure. In GitHub **Actions**, manually run **Generate contribution snake** once. Ensure Actions workflow permissions permit read/write and check the run completed successfully.
+4. Only after the workflow generates the `output` branch, uncomment the snake `<img>` line in README.md. Without setup, the profile shows a self-hosted decorative activity graphic and working links to your live contributions.
+5. Visit `github.com/FaranAlam` after committing to verify the rendered profile.
 
-Important: `README.md` and `assets/` must be at the same repository root level. Do not upload the ZIP file itself as the README. No third-party animations or analytics images are required.
-
-Note: Experience and project claims are preserved from your supplied README and were not independently verified.
+The SVG project panels are custom decorative illustrations, not screenshots of the live websites. Experience and project descriptions are based on your original README and should be checked before publishing.

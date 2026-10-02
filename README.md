@@ -7,7 +7,7 @@
 
 **Engineering complete digital products — from interface to infrastructure.**
 
-[Portfolio](https://www.faranalam.com/) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; • &nbsp; [GitHub](https://github.com/FaranAlam) &nbsp; • &nbsp; [Email](mailto:faranalam14203@gmail.com)
+[Portfolio](https://www.faranalam.com/) &nbsp; • &nbsp; [Digital Academy](https://faran-digital-academy.vercel.app/) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; • &nbsp; [GitHub](https://github.com/FaranAlam) &nbsp; • &nbsp; [Email](mailto:faranalam14203@gmail.com)
 
 **Computer Engineering · IIUI, Islamabad · Pakistan**  
 *Open to freelance projects and technical collaborations*
@@ -55,9 +55,20 @@
 
 <img src="assets/projects.svg" width="100%" alt="Selected projects" />
 
+<a href="https://www.faranalam.com/"><img src="assets/portfolio.svg" width="100%" alt="Faran Alam personal portfolio project" /></a>
+
+**[Live portfolio ↗](https://www.faranalam.com/)** · Personal developer portfolio presenting software engineering, web and mobile development work.
+
+<a href="https://faran-digital-academy.vercel.app/"><img src="assets/academy.svg" width="100%" alt="Faran Digital Academy web platform project" /></a>
+
+**[Visit Faran Digital Academy ↗](https://faran-digital-academy.vercel.app/)** · **[Source repository ↗](https://github.com/FaranAlam/faran-digital-academy)** · Next.js / MongoDB educational platform.
+
+### More selected engineering work
+
+
 | Project | Scope & stack |
 | :--- | :--- |
-| **[Faran Digital Academy](https://github.com/FaranAlam/faran-digital-academy)** | Online education platform; registration, enrollment and payment-integrated workflows. `Next.js` `MongoDB` `Authentication` |
+| **[Faran Digital Academy](https://faran-digital-academy.vercel.app/)** | Online education platform; registration, enrollment and payment-integrated workflows. `Next.js` `MongoDB` `Authentication` |
 | **AquaFood** | Final-year hybrid non-contact food and water quality monitoring project using sensors and AI-based analysis. `IoT` `Sensors` `AI` |
 | **xSEL Custom LMS** | Learning management platform with role-based dashboards, assessments and administrative workflows. `Next.js` `MongoDB` |
 | **Solar Roof Estimator** | Academic Edge AI concept estimating solar electricity generation from hardware data. `TensorFlow Lite` `Flutter` |
@@ -94,17 +105,31 @@
 
 </details>
 
-## GitHub Activity
+<img src="assets/activity.svg" width="100%" alt="Contribution activity section graphic" />
 
-[**View live contributions, repositories and activity on GitHub →**](https://github.com/FaranAlam)
+### Live GitHub contribution activity
 
-GitHub displays your live contribution calendar directly on your profile. This README intentionally avoids third-party analytics images that can show broken links or rate-limit errors.
+[**View my live contribution calendar and recent activity →**](https://github.com/FaranAlam)
+
+[**Explore repositories →**](https://github.com/FaranAlam?tab=repositories) · [**Recent public activity →**](https://github.com/FaranAlam?tab=overview)
+
+<details>
+<summary><strong>Optional animated contribution snake (requires GitHub Actions)</strong></summary>
+
+The animation is optional. Once you enable the included workflow and it runs successfully, uncomment the image line below in your README.
+
+<!-- <img src="https://raw.githubusercontent.com/FaranAlam/faranalam/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" /> -->
+
+</details>
+
+The activity illustration above is decorative, **not a live contribution chart**. The links open GitHub's real activity and contribution data, so this section works even without third-party analytics services.
 
 <img src="assets/connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
-**Software Engineering · Full Stack Web · Mobile Development · Custom Software**
+**Software Engineering · Full Stack Web · Mobile Development · Custom Software**  
+**[Faran Digital Academy](https://faran-digital-academy.vercel.app/)** · **[Personal Portfolio](https://www.faranalam.com/)**
 
 [Portfolio](https://www.faranalam.com/) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; | &nbsp; [Email](mailto:faranalam14203@gmail.com) &nbsp; | &nbsp; [Repositories](https://github.com/FaranAlam?tab=repositories)
 
