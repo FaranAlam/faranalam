@@ -1,13 +1,13 @@
 <!-- FARAN ALAM | SELF-HOSTED VISUALS | GITHUB-SAFE MARKDOWN -->
 <div align="center">
 
-<a href="https://faran-new-portfolio.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Faran Alam — Software Engineer, Web and Mobile Developer" /></a>
+<a href="https://www.faranalam.com/"><img src="assets/hero.svg" width="100%" alt="Faran Alam — Software Engineer, Web and Mobile Developer" /></a>
 
 <br />
 
 **Engineering complete digital products — from interface to infrastructure.**
 
-[Portfolio](https://faran-new-portfolio.vercel.app/) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; • &nbsp; [GitHub](https://github.com/FaranAlam) &nbsp; • &nbsp; [Email](mailto:faranalam14203@gmail.com)
+[Portfolio](https://www.faranalam.com/) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; • &nbsp; [GitHub](https://github.com/FaranAlam) &nbsp; • &nbsp; [Email](mailto:faranalam14203@gmail.com)
 
 **Computer Engineering · IIUI, Islamabad · Pakistan**  
 *Open to freelance projects and technical collaborations*
@@ -106,7 +106,7 @@ GitHub displays your live contribution calendar directly on your profile. This R
 
 **Software Engineering · Full Stack Web · Mobile Development · Custom Software**
 
-[Portfolio](https://faran-new-portfolio.vercel.app/) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; | &nbsp; [Email](mailto:faranalam14203@gmail.com) &nbsp; | &nbsp; [Repositories](https://github.com/FaranAlam?tab=repositories)
+[Portfolio](https://www.faranalam.com/) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/faran-alam-14203abc) &nbsp; | &nbsp; [Email](mailto:faranalam14203@gmail.com) &nbsp; | &nbsp; [Repositories](https://github.com/FaranAlam?tab=repositories)
 
 *Let's build purposeful digital solutions.*
 
