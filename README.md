@@ -1,632 +1,268 @@
+<!-- FARAN ALAM · PREMIUM GITHUB PROFILE README -->
+<!-- Design system: midnight navy · electric cyan · silver · restrained teal -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://faran-new-portfolio.vercel.app/" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:5EEAD4&height=220&section=header&text=FARAN%20ALAM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Computer%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://faran-new-portfolio.vercel.app/">
+  <img width="100%" alt="Faran Alam — Full Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:071326,35:0C2340,70:075985,100:0891B2&text=FARAN%20ALAM&fontColor=FFFFFF&fontSize=58&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=57&animation=fadeIn" />
 </a>
 
-<br/>
+<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=820&height=55&lines=Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+scalable+digital+products;Web+%E2%80%A2+Mobile+%E2%80%A2+Edge+AI+%E2%80%A2+IoT;From+engineering+concepts+to+real-world+solutions" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Flutter+%7C+Edge+AI+%7C+IoT;Building+Scalable+Digital+Solutions;Bridging+Hardware+%26+Cloud+Scalability" alt="Typing SVG"/>
+<br />
 
-<br/><br/>
+<a href="https://faran-new-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/faran-alam-14203abc"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:faranalam14203@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-172554?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/FaranAlam"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p align="center">
-<a href="https://faran-new-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://www.linkedin.com/in/faran-alam-14203abc" target="_blank"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/faranalam" target="_blank"><img src="https://img.shields.io/badge/🐙%20GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/></a>
-<a href="mailto:faranalam14203@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-5EEAD4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-</p>
+<br /><br />
 
-<br/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FaranAlam&label=PROFILE%20VIEWS&color=0891B2&style=flat-square" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/FaranAlam?style=flat-square&label=FOLLOWERS&labelColor=111827&color=22D3EE" />
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/FaranAlam?style=flat-square&label=STARS&labelColor=111827&color=0891B2" />
 
-<img src="https://komarev.com/ghpvc/?username=faranalam&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/faranalam?style=for-the-badge&color=5EEAD4&labelColor=0D1117&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/faranalam?style=for-the-badge&color=38BDF8&labelColor=0D1117&label=STARS"/>
+<br /><br />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Based_in-Pakistan-38BDF8?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💼_Open_to-Freelance_Projects-5EEAD4?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🎓_Status-Final_Year_Student-38BDF8?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
+**Computer Engineering · IIUI, Islamabad** &nbsp; | &nbsp; **Pakistan** &nbsp; | &nbsp; **Open to freelance projects & collaborations**
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TABLE OF CONTENTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<details>
-<summary><strong>📌 Table of Contents</strong></summary>
-<br/>
+## 01 / About Me
 
-- [About Me](#-about-me)
-- [Quick Overview](#-quick-overview)
-- [Tech Stack](#️-tech-stack)
-- [Core Expertise](#-core-expertise)
-- [Professional Experience](#-professional-experience)
-- [Featured Projects](#-featured-projects)
-- [Pinned Repositories](#-pinned-repositories)
-- [What I Build](#️-what-i-build)
-- [Development Philosophy](#-development-philosophy)
-- [Certifications & Achievements](#-certifications--achievements)
-- [Currently Building](#-currently-building)
-- [My Development Workspace](#-my-development-workspace)
-- [GitHub Analytics](#-github-analytics)
-- [GitHub Trophies](#-github-trophies)
-- [Contribution Activity](#-contribution-activity)
-- [Let's Connect](#-lets-connect)
+<table><tr><td width="65%" valign="top">
 
-</details>
+### Engineering software from idea to deployment.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I'm **Faran Alam**, a **Full Stack Software Engineer** and **Computer Engineering student** at **International Islamic University Islamabad**. I work across web applications, cross-platform mobile development, and intelligent hardware-connected systems.
 
-## 👨‍💻 About Me
+- **Build:** Next.js, React, Node.js, Express, MongoDB and PostgreSQL applications.
+- **Engineer:** authentication, role-based platforms, APIs, dashboards and digital workflows.
+- **Explore:** Flutter, computer vision, Edge AI, IoT and embedded systems.
+- **Teach:** web development and project-based learning through **Faran Digital Academy**.
 
-<table>
-<tr>
-<td width="65%" valign="top">
+> My focus: maintainable engineering, purposeful interfaces, and products that solve real problems.
 
-### Hi, I'm Faran Alam 👋
+</td><td width="35%" align="center" valign="middle">
 
-I'm a **Full Stack Software Engineer** and **Computer Engineering** student at **International Islamic University Islamabad (IIUI)**.
+<img width="270" alt="Development illustration" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" />
 
-I build modern, scalable and production-oriented applications across the **web, mobile, cloud and edge-computing ecosystem**.
+<br /><br />
 
-My primary focus is on:
+<img alt="Core technology icons" src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,flutter&theme=dark&perline=3" />
 
-* 🚀 **Full Stack Web Development**
-* ⚛️ **React.js & Next.js**
-* 🟢 **Node.js & Express.js**
-* 🍃 **MongoDB & PostgreSQL**
-* 📱 **Flutter & Dart**
-* 🤖 **Edge AI & Machine Learning**
-* 🔌 **IoT & Embedded Systems**
-* ☁️ **Cloud Deployment & Scalable Architecture**
-* 🔍 **SEO & Web Performance**
+</td></tr></table>
 
-I enjoy working at the intersection of **software engineering, artificial intelligence and hardware systems**, creating solutions that move from an idea to a functional real-world product.
-
-<br/>
-
-> **"Building scalable software while connecting intelligent systems with the real world."**
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="280"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,flutter,python,typescript&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       QUICK INFO                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚡ Quick Overview
+## 02 / Engineering Stack
 
 <div align="center">
 
-| 🎯 Area | 💡 Focus |
-|---|---|
-| 💻 Primary Role | Full Stack Software Engineer |
-| 🎓 Education | BS Computer Engineering — IIUI |
-| 🏫 Teaching | Head of Department — Faran Digital Academy |
-| 🌐 Web | React.js, Next.js, Node.js |
-| 📱 Mobile | Flutter & Dart |
-| 🗄️ Databases | MongoDB, PostgreSQL |
-| 🤖 AI / ML | TensorFlow Lite, OpenCV, Edge AI |
-| 🔌 Hardware | ESP32, Arduino, Raspberry Pi |
-| ☁️ Deployment | Vercel & Cloud Platforms |
-| 🔍 Additional | SEO, Performance & Technical Documentation |
+| Discipline | Technologies & Tools |
+|:--|:--|
+| **Frontend & Design** | HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Bootstrap · Figma |
+| **Backend & APIs** | Node.js · Express.js · Python · REST APIs · Authentication |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Data Modeling |
+| **Mobile** | Flutter · Dart · Android Studio |
+| **AI & Computer Vision** | TensorFlow Lite · OpenCV · CNN · Edge AI |
+| **IoT & Hardware** | ESP32 · Arduino · Raspberry Pi · Sensor Integration |
+| **Workflow & Deployment** | Git · GitHub · VS Code · Cursor · GitHub Copilot · Vercel · Postman · Linux |
+
+<img alt="Frontend stack" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+
+<img alt="Backend, data and tools" src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql,flutter,dart,git&theme=dark" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend & UI Engineering
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap,figma&theme=dark"/></p>
-<div align="center">`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Figma`</div>
-
-### ⚙️ Backend & API Development
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark"/></p>
-<div align="center">`Node.js` • `Express.js` • `REST APIs` • `Authentication` • `Server-Side Architecture`</div>
-
-### 🗄️ Databases & Data
-<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark"/></p>
-<div align="center">`MongoDB` • `PostgreSQL` • `MySQL` • `Database Architecture` • `Data Modeling`</div>
-
-### 📱 Mobile Development
-<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark"/></p>
-<div align="center">`Flutter` • `Dart` • `Cross-Platform Applications` • `Android Development`</div>
-
-### 🤖 AI, Machine Learning & Computer Vision
-<p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/></p>
-<div align="center">`TensorFlow Lite` • `OpenCV` • `Computer Vision` • `CNN` • `Edge AI` • `On-Device ML`</div>
-
-### 🔌 Hardware, IoT & Edge Computing
-<p align="center"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/></p>
-<div align="center">`ESP32` • `Arduino` • `Raspberry Pi` • `IoT Systems` • `Sensor Integration` • `Edge Computing`</div>
-
-### ☁️ Tools, Platforms & Workflow
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,postman&theme=dark"/></p>
-<div align="center">`Git` • `GitHub` • `VS Code` • `Cursor AI` • `GitHub Copilot` • `Vercel` • `Postman` • `Linux`</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CORE EXPERTISE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧠 Core Expertise
+## 03 / Professional Experience
 
 <table>
-<tr>
-<td align="center" width="25%">
+<tr><td width="100%">
 
-### 🌐
-**Full Stack**
-
-React.js<br/>Next.js<br/>Node.js<br/>Express.js<br/>REST APIs
-
-</td>
-<td align="center" width="25%">
-
-### 📱
-**Mobile**
-
-Flutter<br/>Dart<br/>Cross Platform<br/>Android<br/>Mobile UI
-
-</td>
-<td align="center" width="25%">
-
-### 🤖
-**AI & Edge**
-
-TensorFlow Lite<br/>OpenCV<br/>CNN<br/>Edge AI<br/>Computer Vision
-
-</td>
-<td align="center" width="25%">
-
-### 🔌
-**IoT & Hardware**
-
-ESP32<br/>Arduino<br/>Raspberry Pi<br/>Sensors<br/>Embedded Systems
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PROFESSIONAL EXPERIENCE                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💼 Professional Experience
-
-<table>
-<tr><td>
-
-### 🏢 Subcontractor Development Partner — Dream Growth Agency
-**Jul 2026 – Present**
-- Architecting and delivering high-performance custom websites.
-- Developing dynamic e-commerce mobile applications.
-- Working with global agency clients on production-oriented solutions.
+**Subcontractor Development Partner — Dream Growth Agency** `Jul 2026 – Present`  
+Custom websites, e-commerce mobile applications and production-oriented delivery for agency clients.
 
 </td></tr>
 <tr><td>
 
-### 🎓 Full Stack Developer — Sarwar English Lab (xSEL)
-**Mar 2026 – Present**
-- Architected an advanced E-Learning ecosystem using **Next.js & MongoDB**.
-- Implemented custom LMS workflows with role-based authentication.
-- Developed an automated MCQ evaluation engine.
+**Full Stack Developer — Sarwar English Lab (xSEL)** `Mar 2026 – Present`  
+Next.js and MongoDB learning platform with role-based access, LMS workflows and an automated MCQ evaluation engine.
 
 </td></tr>
 <tr><td>
 
-### 🚀 Founder, Instructor & Head of Department — [Faran Digital Academy](https://github.com/FaranAlam/faran-digital-academy)
-**Dec 2025 – Present**
-- Founded an online technology education platform.
-- Designing and delivering modern web development courses as HOD.
-- Built student registration, enrollment, and payment-integrated workflows.
-- Mentoring learners from fundamentals through deployment.
+**Founder, Instructor & Head of Department — [Faran Digital Academy](https://github.com/FaranAlam/faran-digital-academy)** `Dec 2025 – Present`  
+Technology education, web development instruction, student enrollment workflows and learner mentorship.
 
 </td></tr>
 <tr><td>
 
-### 🌐 Volunteer Web Developer — ISCB-SC RSG Pakistan
-**Jan 2026 – Present**
-- Leading development of the organization's official website.
-- Working on digital workflow automation and bioinformatics web initiatives.
+**Volunteer Web Developer — ISCB-SC RSG Pakistan** `Jan 2026 – Present`  
+Organizational website development, workflow automation and bioinformatics-related web initiatives.
 
 </td></tr>
 <tr><td>
 
-### 💻 Freelance Software Engineer
-**Aug 2022 – Present**
-- Delivering scalable websites, applications, and cross-platform Flutter solutions for clients.
-- Working on SEO and web-performance optimization (e.g., Vitromics Biolab).
-- Building customized solutions across varied business requirements.
+**Freelance Software Engineer** `Aug 2022 – Present`  
+Custom websites, cross-platform applications, SEO and performance-focused client solutions.
 
 </td></tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-### 🤖 AI • IoT • Edge Computing
+## 04 / Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☀️ Solar Roof Electricity Generation Estimator
-An academic **Edge AI** system designed to estimate solar electricity generation using real-time hardware data.
+### 🎓 Faran Digital Academy
+**Education platform · Full stack**
 
-`TensorFlow Lite` `Flutter` `Edge AI` `Embedded Systems`
+Student registration, enrollment and payment-integrated learning workflows.
+
+`Next.js` `MongoDB` `Authentication`
+
+[**Explore repository →**](https://github.com/FaranAlam/faran-digital-academy)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Real-Time Lane Detection
-A computer vision pipeline using **Convolutional Neural Networks** and OpenCV for real-time lane detection on Raspberry Pi hardware.
+### 💧 AquaFood
+**Food & water quality · Final-year design**
 
-`Python` `OpenCV` `CNN` `Raspberry Pi`
+Hybrid monitoring concept combining non-contact sensing, embedded hardware and AI-based analysis.
+
+`IoT` `Sensors` `AI/ML` `Dashboard`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 💧 AquaFood — Food & Water Quality System
-A hybrid hardware/software monitoring platform built around food and water quality analysis using sensors, embedded hardware, and intelligent processing.
-
-`ESP32` `IoT` `AI/ML` `Dashboard` `Sensors`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎓 xSEL Custom LMS
-A multi-module Learning Management System featuring authentication, role-based dashboards, automated workflows, and CSV-based data handling.
+**Learning management · Full stack**
 
-`Next.js` `MongoDB` `Node.js` `Authentication`
+Role-based dashboards, assessments, authentication and administrative workflows.
+
+`Next.js` `MongoDB` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ Solar Roof Estimator
+**Academic project · Edge AI**
+
+Estimation of solar electricity generation using hardware data and lightweight intelligent processing.
+
+`TensorFlow Lite` `Flutter` `Embedded`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🚗 Real-Time Lane Detection
+**Computer vision · Embedded AI**
+
+CNN and OpenCV-based lane detection targeting Raspberry Pi hardware.
+
+`Python` `OpenCV` `CNN`
+
+</td>
 <td width="50%" valign="top">
 
 ### 📊 Mobile Shop POS & Inventory
-A complete Point-of-Sale and inventory management solution with sales workflows, stock management, and administrative controls.
+**Business software · Management system**
 
-`React` `Tailwind CSS` `Database` `Dashboard`
+Sales, stock tracking, inventory and administrative workflows.
 
-</td>
-<td width="50%" valign="top">
-
-### 📱 Cross-Platform Applications
-Development of mobile applications using Flutter and Dart with a focus on practical workflows, responsive interfaces, and real-world usability.
-
-`Flutter` `Dart` `Android`
+`React` `Tailwind CSS` `Database`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-### 🎓 [Faran Digital Academy Platform](https://github.com/FaranAlam/faran-digital-academy)
-An online tech-education platform offering web development courses, with custom student registration, enrollment, and payment-integrated workflows.
+**Also building:** cross-platform Flutter applications, intelligent IoT systems and custom business software.
 
-`Next.js` `MongoDB` `Authentication` `Payments`
-
-</td>
-<td width="50%" valign="top">
+[**Explore all repositories →**](https://github.com/FaranAlam?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PINNED REPOSITORIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 05 / What I Deliver
 
-## 📌 Pinned Repositories
+| 🌐 Full Stack Platforms | 📱 Mobile Applications | 🤖 Intelligent Systems | 🔌 IoT & Hardware |
+|:--|:--|:--|:--|
+| Web apps & dashboards | Flutter & Dart | Edge AI & vision | ESP32 & Raspberry Pi |
+| Authentication & APIs | API-driven experiences | TensorFlow Lite | Sensors & integration |
+| Data-driven workflows | Cross-platform UI | On-device processing | Connected systems |
 
-<div align="center">
+## 06 / Credentials & Development Approach
 
-<!--
-  Replace REPO-NAME-1 / REPO-NAME-2 / REPO-NAME-3 below with your
-  actual repository names (case-sensitive, no spaces) once your
-  projects are pushed to GitHub. Each card auto-generates a live
-  stats preview for that exact repo.
--->
-
-<a href="https://github.com/faranalam/REPO-NAME-1" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faranalam&repo=REPO-NAME-1&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=5EEAD4&bg_color=0D1117" width="47%"/>
-</a>
-<a href="https://github.com/faranalam/REPO-NAME-2" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faranalam&repo=REPO-NAME-2&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=5EEAD4&bg_color=0D1117" width="47%"/>
-</a>
-
-</div>
-
-> 💡 **Setup:** A pin card only renders once the repo name in its URL matches a **real, existing** repository on your account — that's why a placeholder like `repo=faranalam` (your username, not a repo) shows a broken image. Swap `REPO-NAME-1` / `REPO-NAME-2` above for real repo names (e.g. `repo=xsel-lms`), or skip this entirely and just use GitHub's native pinning: go to your profile → **Customize your pins** → select up to 6 repos. That method needs no image parameters and never breaks.
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WHAT I BUILD                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏗️ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐</h3>
-<h4 align="center">Full Stack Web Applications</h4>
-
-- React.js / Next.js
-- REST APIs
-- Authentication & Authorization
-- Scalable Database Architecture
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📱</h3>
-<h4 align="center">Cross-Platform Mobile Apps</h4>
-
-- Flutter / Dart
-- Android Applications
-- API-Driven Mobile Systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖</h3>
-<h4 align="center">Intelligent Systems</h4>
-
-- Edge AI
-- Computer Vision
-- TensorFlow Lite
-- On-Device Machine Learning
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔌</h3>
-<h4 align="center">Hardware & IoT</h4>
-
-- ESP32
-- Arduino
-- Raspberry Pi
-- Sensor-Based Systems
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DEVELOPMENT PHILOSOPHY                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💡 Development Philosophy
+**NAVTTC — Full Stack Development** · Grade A+ · Prime Minister's Youth Skills Development Program, Batch II  
+**BS Computer Engineering** · International Islamic University Islamabad · 2022–2026  
+**Additional focus** · SEO, Core Web Vitals, technical documentation and LaTeX engineering reports
 
 ```javascript
-const faran = {
-    mindset: "Build → Learn → Improve → Ship",
-
-    principles: [
-        "Write maintainable code",
-        "Design for scalability",
-        "Build real-world solutions",
-        "Keep learning new technologies",
-        "Focus on user experience",
-        "Automate repetitive workflows"
-    ],
-
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Edge Computing",
-        "IoT",
-        "Cloud Architecture",
-        "Developer Tools"
-    ],
-
-    currentlyLearning: [
-        "Advanced Edge AI Optimization",
-        "Scalable Cloud Architecture Patterns"
-    ]
+const approach = {
+  philosophy: "Build → Learn → Improve → Ship",
+  priorities: ["Maintainability", "Scalability", "User experience"],
+  domains: ["Full stack", "Mobile", "Edge AI", "IoT"],
+  currentFocus: ["E-learning platforms", "On-device ML", "Intelligent IoT"]
 };
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CERTIFICATIONS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-### 🥇 NAVTTC — Full Stack Development
-**Grade A+**
-Prime Minister's Youth Skills Development Program — Batch II
-
-<br/>
-
-### 🎓 BS Computer Engineering
-**International Islamic University Islamabad**
-2022 – 2026
-
-<br/>
-
-### 📈 SEO & Web Performance
-Experience optimizing web traffic, performance, and Core Web Vitals.
-
-<br/>
-
-### ✍️ Technical Documentation
-Experienced with LaTeX for engineering documentation, proposals, and technical projects.
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENTLY BUILDING                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚧 Currently Building
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎓 Enterprise E-Learning
-Building scalable learning-management ecosystems with modern authentication, dashboards, automation, and assessment workflows.
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 On-Device ML
-Exploring lightweight machine-learning models designed for edge devices and real-world hardware integration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🚀 Full Stack Products
-Building modern web platforms using Next.js, React, Node.js, and MongoDB.
-
-</td>
-<td width="50%" align="center">
-
-### 🔌 Intelligent IoT
-Connecting sensors, embedded hardware, APIs, and dashboards into complete intelligent systems.
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WORKSPACE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💻 My Development Workspace
-
-<div align="center">
-
-| 🔧 Tool | 🧠 Usage |
-|---|---|
-| 🤖 Cursor AI | Primary IDE |
-| 💻 GitHub Copilot | AI Pair Programmer |
-| 📱 Vivo S1 Pro | Mobile Testing |
-| 🔌 Raspberry Pi | Hardware / Edge Computing |
-| ⚡ ESP32 | IoT Development |
-| 🌐 Vercel | Web Deployment |
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faranalam&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=5EEAD4&bg_color=0D1117&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faranalam&theme=transparent&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=5EEAD4&currStreakLabel=FFFFFF&sideLabels=94A3B8&dates=64748B&background=0D1117" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranalam&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117" width="45%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faranalam&bg_color=0D1117&color=5EEAD4&line=38BDF8&point=FFFFFF&hide_border=true&area=true&area_color=38BDF8" width="95%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB TROPHIES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faranalam&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-</div>
-
 <details>
-<summary>🛠️ If any stats/trophy image above shows a broken icon</summary>
-<br/>
+<summary><b>My development workspace & current areas of work</b></summary>
+<br />
 
-These cards (`github-readme-stats`, `github-readme-streak-stats`, `github-profile-trophy`) are free, shared Vercel/Heroku services. **If you're seeing broken icons inside GitHub's own "Edit → Preview" tab specifically** — that's a known limitation: GitHub's inline preview (before you commit) doesn't reliably proxy every external image through its camo cache. It almost always renders fine on the **actual live profile page** once you commit the file and open `github.com/faranalam` in a normal browser tab. If it's still broken there too:
-
-- Hard-refresh the profile page (`Ctrl/Cmd + Shift + R`).
-- Open the image URL directly in a new browser tab to confirm it loads on its own.
-- Double-check the `username=faranalam` param is spelled correctly in that specific badge URL.
-- As a permanent fix, you can deploy your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) or [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) on Vercel and swap the domain in the URLs above — this removes any dependency on the shared public instance entirely.
+- **Tools:** Cursor, VS Code, GitHub Copilot, Postman, Git and Vercel.
+- **Hardware & testing:** Raspberry Pi, ESP32 and Android mobile testing.
+- **Current work:** enterprise-style e-learning workflows, full-stack products, lightweight on-device ML and connected IoT systems.
+- **Additional strengths:** SEO, web performance and technical documentation.
 
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Activity
+## 07 / GitHub Insights
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/faranalam/faranalam/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<!-- External community widgets can occasionally be rate-limited or unavailable. -->
+<img width="49%" alt="Faran Alam GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=FaranAlam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=22D3EE" />
+<img width="49%" alt="Most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranAlam&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
+
+<br />
+
+<img width="98%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FaranAlam&bg_color=0D1117&color=67E8F9&line=38BDF8&point=FFFFFF&hide_border=true&area=true&area_color=075985" />
+
+<sub>These widgets reflect public GitHub activity and may occasionally be unavailable due to third-party service limits.</sub>
+
 </div>
 
 <details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
-<br/>
+<summary><b>Optional: contribution snake animation</b></summary>
+<br />
 
-Create `.github/workflows/snake.yml` in your `faranalam/faranalam` repo with:
+To enable the animation, create `.github/workflows/snake.yml` in your profile repository (`FaranAlam/FaranAlam`) with the workflow below. Once it runs successfully, uncomment the image after this details block.
 
 ```yaml
-name: Generate Snake
-
+name: Generate contribution snake
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
+permissions:
+  contents: write
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: faranalam
+          github_user_name: FaranAlam
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -638,50 +274,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Commit and push — the Action will run automatically and generate the animated snake shown above.
-
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
+<!-- Uncomment ONLY after the workflow creates the output branch:
 <div align="center">
-
-<a href="https://faran-new-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/faran-alam-14203abc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/faranalam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:faranalam14203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/FaranAlam/FaranAlam/output/github-contribution-grid-snake.svg" />
 </div>
+-->
 
-<br/>
-
-<div align="center">
-
-### 💬 Open to
-
-`Software Engineering` • `Full Stack Development` • `Freelance Projects` • `Collaborations` • `Open Source` • `Teaching & Mentorship`
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER WAVE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br/>
+## 08 / Let's Connect
 
 <div align="center">
 
-### Thanks for stopping by! 👋
-**Let's build something great together.**
+**Open to software engineering, full-stack development, freelance projects, collaborations, open source and mentorship.**
 
-<br/>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:38BDF8,100:0EA5E9&height=130&section=footer&animation=fadeIn" width="100%"/>
+<a href="https://faran-new-portfolio.vercel.app/"><img alt="View portfolio" src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/faran-alam-14203abc"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:faranalam14203@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/CONTACT_ME-172554?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>⭐ If you find my work interesting, consider starring some of my repositories!</sub>
+<br /><br />
+
+*Building scalable software. Connecting intelligent systems to the real world.*
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:071326,35:0C2340,70:075985,100:0891B2" />
 
 </div>
